@@ -51,7 +51,7 @@ If you're learning NLP or preparing for interviews — this is for **you** 💪
 If you find this useful or want to collaborate, feel free to:
 
 - ⭐ Star this repo to support the work
-- 📬 [Connect on LinkedIn](www.linkedin.com/in/dev-pandey-a5871627a)
+- 📬 Connect on LinkedIn>>(www.linkedin.com/in/dev-pandey-a5871627a)
 - 🧠 DM me if you need help understanding anything
 
 ---
